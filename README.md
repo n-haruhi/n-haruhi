@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://pen2-tech-blog.vercel.app/](https://pen2-tech-blog.vercel.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Vue.js, Node.js, Python, フルスタック開発**
+- 💬 Ask me about **JavaScript, TypeScript, React, Vue.js, Node.js, Python, Full-stack Development**
 
 - 📫 How to reach me **https://pen2-tech-blog.vercel.app/about**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/n_haru2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_haru2" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_haru2" height="30" width="40" /></a> -->
 <a href="https://zenn.dev/n_haru2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="zenn" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/nhr2.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bluesky" height="30" width="40" /></a>
+<!-- <a href="https://bsky.app/profile/nhr2.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bluesky" height="30" width="40" /></a> -->
 <a href="/https://pen2-tech-blog.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://pen2-tech-blog.vercel.app/" height="30" width="40" /></a>
 </p>
 
