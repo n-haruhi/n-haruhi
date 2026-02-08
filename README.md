@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm n-haruhi</h1>
-<h3 align="center">Software Engineer | Next.js, TypeScript, Ruby on Rails</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-haruhi&label=Profile%20views&color=0e75b6&style=flat" alt="n-haruhi" /> </p>
 
-- 🌱 I'm currently learning **Next.js, システム設計, AWS**
+- 🌱 I'm currently learning **Java, Spring Boot, PHP, Laravel**
 
 - 📝 I regularly write articles on [https://pen2-tech-blog.vercel.app/](https://pen2-tech-blog.vercel.app/)
 
-- 💬 Ask me about **React, Next.js, Ruby on Rails, フロントエンド開発**
+- 💬 Ask me about **JavaScript, TypeScript, React, Vue.js, Node.js, Python, フルスタック開発**
 
 - 📫 How to reach me **https://pen2-tech-blog.vercel.app/about**
 
